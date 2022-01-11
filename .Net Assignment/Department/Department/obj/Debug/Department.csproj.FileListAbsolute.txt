@@ -1,0 +1,7 @@
+D:\collabera\net assignment\Department\Department\obj\Debug\Department.csproj.AssemblyReference.cache
+D:\collabera\net assignment\Department\Department\obj\Debug\Department.csproj.CoreCompileInputs.cache
+D:\collabera\net assignment\Department\Department\bin\Debug\Department.exe.config
+D:\collabera\net assignment\Department\Department\bin\Debug\Department.exe
+D:\collabera\net assignment\Department\Department\bin\Debug\Department.pdb
+D:\collabera\net assignment\Department\Department\obj\Debug\Department.exe
+D:\collabera\net assignment\Department\Department\obj\Debug\Department.pdb
